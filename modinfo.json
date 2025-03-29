@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "modid": "sfanimationlibrary",
+    "name": "S&F Animation Library",
+       "authors": ["SpearAndFang"],
+    "description": "SpearAndFang's Animation Library",
+    "version": "0.0.2",
+    "dependencies": {"game": ""}
+}
